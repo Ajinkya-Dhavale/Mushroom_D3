@@ -1,0 +1,201 @@
+UV_exposure_time,UV_intensity,Mushroom_type,Temperature,Extraction_method,Vitamin_D3_yield
+112,2.18,Shiitake,47,Solvent,276.96
+61,1.42,Shiitake,33,UV Exposure,135.6
+102,2.83,Oyster,36,UV Exposure,167.9
+24,1.87,Button,77,Solvent,113.13
+116,2.67,Button,25,Solvent,242.39
+81,4.53,Button,25,Solvent,228.94
+70,2.3,Shiitake,71,Solvent,181.12
+30,1.49,Shiitake,58,Heat Extraction,140.82
+112,2.43,Portobello,56,Heat Extraction,248.8
+92,4.63,Shiitake,78,Heat Extraction,220.19
+96,2.09,Shiitake,72,Solvent,207.37
+84,3.59,Shiitake,49,Heat Extraction,242.51
+84,1.0,Button,64,Solvent,163.71
+97,2.41,Button,69,Solvent,195.24
+109,2.22,Shiitake,77,Heat Extraction,206.58
+113,1.66,Button,25,Solvent,224.51
+33,3.14,Portobello,40,Heat Extraction,163.64
+12,2.94,Button,63,Heat Extraction,105.73
+31,3.77,Portobello,29,Heat Extraction,155.25
+62,2.08,Oyster,46,Heat Extraction,166.87
+11,1.98,Shiitake,53,Heat Extraction,124.5
+97,1.67,Button,79,UV Exposure,142.86
+117,1.88,Portobello,27,UV Exposure,186.76
+39,3.23,Oyster,36,UV Exposure,119.18
+47,2.62,Oyster,50,UV Exposure,131.44
+11,1.26,Button,40,UV Exposure,86.39
+73,2.02,Button,75,Heat Extraction,152.78
+69,1.99,Oyster,61,Solvent,153.69
+30,3.79,Shiitake,46,Solvent,192.02
+42,3.85,Shiitake,53,Heat Extraction,193.41
+85,1.59,Portobello,38,Solvent,200.18
+67,4.99,Shiitake,52,Solvent,263.41
+31,2.07,Oyster,29,UV Exposure,100.28
+117,4.91,Oyster,71,UV Exposure,182.1
+98,2.64,Oyster,73,UV Exposure,146.29
+58,1.13,Shiitake,54,Solvent,184.81
+100,2.38,Portobello,70,UV Exposure,159.18
+68,3.54,Shiitake,76,Heat Extraction,181.18
+51,3.72,Portobello,29,Solvent,191.36
+101,3.12,Shiitake,36,Solvent,252.72
+69,2.79,Oyster,40,UV Exposure,153.73
+89,3.21,Oyster,50,Heat Extraction,212.47
+24,3.37,Button,50,UV Exposure,124.51
+71,1.32,Shiitake,72,UV Exposure,129.6
+71,2.48,Shiitake,45,Solvent,225.83
+56,1.97,Button,63,Solvent,147.36
+71,4.21,Oyster,60,UV Exposure,171.98
+60,2.88,Shiitake,57,Solvent,217.59
+117,4.93,Button,54,Solvent,303.43
+64,2.6,Shiitake,61,Solvent,178.59
+73,4.27,Portobello,47,UV Exposure,191.14
+12,4.19,Oyster,34,Solvent,138.55
+110,1.6,Portobello,78,UV Exposure,159.39
+60,3.03,Oyster,29,Solvent,175.13
+16,3.78,Button,60,Heat Extraction,146.07
+30,4.43,Oyster,58,Solvent,177.63
+82,2.3,Oyster,76,UV Exposure,130.98
+48,1.88,Button,55,Solvent,168.63
+27,3.84,Oyster,34,UV Exposure,115.5
+13,4.24,Shiitake,43,UV Exposure,135.7
+98,2.39,Button,56,Solvent,239.57
+69,1.38,Button,25,UV Exposure,130.9
+23,4.76,Button,29,Solvent,165.88
+18,2.59,Portobello,69,Heat Extraction,112.15
+99,3.07,Portobello,28,UV Exposure,183.88
+62,4.35,Oyster,40,UV Exposure,165.28
+11,3.7,Button,48,UV Exposure,115.92
+93,3.94,Oyster,40,UV Exposure,189.19
+101,1.84,Shiitake,79,Heat Extraction,193.36
+69,3.17,Button,26,Heat Extraction,180.71
+80,3.78,Shiitake,73,Solvent,213.13
+53,1.91,Oyster,52,UV Exposure,128.78
+17,1.7,Portobello,56,UV Exposure,101.96
+56,4.93,Oyster,51,Heat Extraction,199.72
+44,3.07,Shiitake,44,Solvent,198.88
+87,2.04,Button,48,Heat Extraction,203.28
+90,4.99,Oyster,36,Heat Extraction,216.59
+45,4.86,Button,74,Solvent,173.23
+59,3.23,Portobello,59,UV Exposure,163.82
+113,4.53,Portobello,57,UV Exposure,234.91
+13,1.75,Portobello,57,Heat Extraction,118.25
+11,2.12,Button,75,Heat Extraction,95.04
+15,3.8,Oyster,67,Heat Extraction,113.4
+63,4.39,Button,61,Solvent,185.71
+115,4.43,Button,36,Solvent,266.41
+13,2.62,Oyster,27,Heat Extraction,109.12
+63,4.55,Portobello,25,UV Exposure,167.78
+102,4.4,Portobello,57,UV Exposure,222.13
+72,4.74,Oyster,64,Solvent,190.42
+27,4.14,Button,34,Solvent,161.59
+99,3.68,Button,67,UV Exposure,164.34
+53,3.32,Portobello,68,Solvent,168.99
+43,2.49,Shiitake,53,UV Exposure,144.28
+83,4.76,Shiitake,37,Heat Extraction,236.16
+71,4.89,Shiitake,36,Solvent,242.89
+109,2.14,Button,55,Heat Extraction,230.29
+23,2.22,Button,70,Solvent,116.6
+104,2.94,Portobello,26,Solvent,243.09
+57,2.79,Shiitake,75,Heat Extraction,160.06
+24,4.98,Portobello,74,Heat Extraction,147.8
+81,1.7,Portobello,59,Solvent,216.75
+87,1.07,Portobello,47,Heat Extraction,197.8
+96,2.98,Oyster,41,UV Exposure,180.87
+71,1.72,Shiitake,50,UV Exposure,163.68
+49,2.47,Shiitake,32,Heat Extraction,164.02
+94,3.98,Oyster,53,UV Exposure,190.58
+89,3.88,Oyster,50,UV Exposure,184.8
+118,2.23,Shiitake,34,UV Exposure,200.04
+91,3.17,Oyster,50,Solvent,231.98
+62,3.04,Portobello,58,UV Exposure,164.45
+33,3.55,Button,75,UV Exposure,110.78
+35,2.0,Portobello,65,Heat Extraction,121.72
+98,3.36,Shiitake,31,UV Exposure,194.4
+69,4.92,Oyster,28,Solvent,210.76
+118,2.95,Button,77,Solvent,223.81
+50,4.62,Shiitake,74,Heat Extraction,176.52
+38,2.74,Oyster,69,Solvent,132.43
+24,2.4,Button,35,Solvent,133.28
+54,3.58,Button,53,UV Exposure,156.09
+74,3.68,Oyster,60,UV Exposure,168.63
+98,4.46,Button,49,Solvent,272.13
+80,1.92,Shiitake,45,Heat Extraction,210.99
+18,3.0,Oyster,60,Heat Extraction,130.84
+97,3.29,Portobello,34,UV Exposure,184.58
+10,4.07,Shiitake,61,Solvent,138.57
+117,1.17,Shiitake,33,UV Exposure,186.36
+17,4.98,Oyster,48,Heat Extraction,157.17
+97,2.88,Oyster,59,Solvent,234.83
+72,2.12,Button,73,UV Exposure,127.51
+20,4.53,Shiitake,59,UV Exposure,146.92
+90,3.99,Button,72,Heat Extraction,192.34
+17,4.81,Shiitake,60,UV Exposure,147.44
+44,2.32,Shiitake,42,Heat Extraction,171.71
+44,3.21,Portobello,73,Heat Extraction,145.69
+42,3.29,Shiitake,63,Solvent,163.57
+14,4.92,Button,56,Solvent,173.66
+115,1.3,Button,48,UV Exposure,187.55
+112,2.22,Portobello,47,Heat Extraction,245.61
+50,1.76,Button,56,Heat Extraction,156.24
+37,2.07,Oyster,61,Solvent,123.22
+16,2.94,Portobello,36,Solvent,137.84
+82,2.49,Button,73,Heat Extraction,166.91
+81,2.58,Button,79,Solvent,180.95
+21,4.38,Oyster,37,UV Exposure,116.13
+43,4.72,Portobello,47,Heat Extraction,199.77
+42,1.28,Oyster,49,Solvent,144.74
+57,1.84,Portobello,59,UV Exposure,144.21
+32,3.68,Portobello,65,Heat Extraction,139.6
+71,2.43,Shiitake,54,UV Exposure,173.05
+97,2.02,Button,41,UV Exposure,178.84
+46,2.18,Button,73,Heat Extraction,129.02
+108,2.29,Shiitake,44,UV Exposure,210.28
+53,4.39,Oyster,72,Solvent,167.44
+113,1.55,Shiitake,49,Solvent,267.52
+95,3.84,Button,46,Solvent,258.6
+100,3.21,Button,37,UV Exposure,178.31
+44,2.19,Shiitake,43,Solvent,183.78
+74,2.68,Shiitake,73,UV Exposure,146.88
+108,2.02,Shiitake,60,Solvent,268.73
+110,3.45,Button,36,Heat Extraction,227.7
+56,1.33,Shiitake,65,UV Exposure,116.75
+87,1.02,Shiitake,43,UV Exposure,171.34
+12,3.51,Oyster,36,Solvent,129.27
+10,1.78,Shiitake,33,Heat Extraction,109.15
+14,1.28,Button,31,Solvent,105.82
+99,2.59,Oyster,52,Solvent,232.88
+23,1.2,Portobello,38,Heat Extraction,110.95
+112,4.55,Button,55,Heat Extraction,268.77
+36,1.11,Button,76,Solvent,115.7
+18,3.32,Portobello,43,Heat Extraction,148.16
+88,2.75,Button,71,Solvent,190.35
+24,3.69,Portobello,40,UV Exposure,134.22
+99,2.31,Portobello,77,Solvent,204.92
+51,1.62,Button,29,UV Exposure,117.7
+86,4.93,Shiitake,59,Solvent,288.46
+60,4.36,Shiitake,36,Heat Extraction,203.9
+72,4.44,Portobello,49,UV Exposure,192.28
+105,2.0,Oyster,76,Heat Extraction,174.64
+112,1.16,Portobello,45,UV Exposure,191.27
+61,2.21,Portobello,60,UV Exposure,152.94
+105,3.15,Portobello,77,Solvent,222.68
+13,2.31,Shiitake,47,Solvent,143.29
+103,4.31,Shiitake,40,Solvent,301.16
+110,2.09,Shiitake,63,Solvent,223.1
+32,4.86,Portobello,69,Heat Extraction,154.26
+112,2.83,Oyster,77,Solvent,206.27
+118,4.37,Shiitake,66,Solvent,264.09
+24,1.78,Button,63,UV Exposure,86.13
+52,2.65,Button,38,Heat Extraction,155.89
+38,3.8,Button,55,Heat Extraction,171.92
+45,1.55,Portobello,29,UV Exposure,116.72
+22,1.53,Button,59,UV Exposure,100.31
+41,4.88,Portobello,47,Solvent,216.42
+80,3.86,Button,53,Heat Extraction,221.58
+68,1.16,Oyster,67,Solvent,142.51
+95,2.6,Portobello,35,UV Exposure,174.8
+37,2.73,Button,42,Solvent,168.15
+75,3.98,Shiitake,71,Heat Extraction,194.14
+51,2.0,Portobello,36,Solvent,165.65
+54,1.74,Shiitake,33,Heat Extraction,159.26

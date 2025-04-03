@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h1 class="title">Prediction Result</h1>
+        <div class="form-group">
+            <label for="predicted_d3_yield">Predicted Vitamin D3 Yield (IU/g):</label>
+            <input type="text" id="predicted_d3_yield" class="input" value="{{ prediction }}" readonly>
+        </div>
+        <a href="/" class="form-submit-btn">Go Back</a>
+    </div>
+</body>
+</html>

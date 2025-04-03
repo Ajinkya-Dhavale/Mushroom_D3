@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitamin D3 Yield Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h1 class="title">Vitamin D3 Yield Predictor</h1>
+        <form action="/predict" method="post" class="form">
+            <div class="form-group">
+                <label for="uv_exposure_time">UV Exposure Time (min):</label>
+                <input type="number" name="uv_exposure_time" class="input" required>
+            </div>
+            <div class="form-group">
+                <label for="uv_intensity">UV Intensity:</label>
+                <input type="number" name="uv_intensity" class="input" required>
+            </div>
+            <div class="form-group">
+                <label for="mushroom_type">Mushroom Type:</label>
+                <select name="mushroom_type" class="input" required>
+                    <option value="Shiitake">Shiitake</option>
+                    <option value="White Button">White Button</option>
+                    <option value="Oyster">Oyster</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="temperature">Temperature (°C):</label>
+                <input type="number" name="temperature" class="input" required>
+            </div>
+            <div class="form-group">
+                <label for="extraction_method">Extraction Method:</label>
+                <select name="extraction_method" class="input" required>
+                    <option value="Solvent">Solvent</option>
+                    <option value="Heat Extraction">Heat Extraction</option>
+                    <option value="UV Exposure">UV Exposure</option>
+                </select>
+            </div>
+            <button type="submit" class="form-submit-btn">Predict Yield</button>
+        </form>
+    </div>
+</body>
+</html>
